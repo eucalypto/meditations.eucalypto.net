@@ -1,3 +1,6 @@
 [submodule "themes/eureka"]
 	path = themes/eureka
 	url = git@github.com:eucalypto/hugo-eureka.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = git@github.com:eucalypto/hugo-theme-stack.git
