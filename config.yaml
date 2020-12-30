@@ -1,4 +1,4 @@
-baseurl: https://meditations.eucalypto.de
+baseurl: https://meditations.eucalypto.net
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
