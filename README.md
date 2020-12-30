@@ -1,2 +1,2 @@
-# meditations.eucalypto.de
+# meditations.eucalypto.net
 "Meditations (by Eucalypto) blog" 
