@@ -33,7 +33,7 @@ params:
     sidebar:
         subtitle: Don't read this if you don't want to.
         avatar:
-            src: img/avatar.jpg
+            src: /img/avatar.jpg
 
     article:
         math: false
