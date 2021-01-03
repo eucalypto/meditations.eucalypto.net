@@ -24,4 +24,5 @@ _testmain.go
 
 /public
 /themes
+/resources/_gen
 .DS_Store
