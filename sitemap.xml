@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://meditations.eucalypto.net/</loc>
+    <lastmod>2021-01-10T17:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meditations.eucalypto.net/tags/motivation/</loc>
+    <lastmod>2021-01-10T17:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meditations.eucalypto.net/post/</loc>
+    <lastmod>2021-01-10T17:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meditations.eucalypto.net/tags/</loc>
+    <lastmod>2021-01-10T17:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meditations.eucalypto.net/p/what-kind-of-sun-are-you/</loc>
+    <lastmod>2021-01-10T17:41:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://meditations.eucalypto.net/tags/books/</loc>
+    <lastmod>2021-01-03T23:28:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://meditations.eucalypto.net/p/how-to-read-books/</loc>
     <lastmod>2021-01-03T23:28:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://meditations.eucalypto.net/</loc>
-    <lastmod>2021-01-03T23:28:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://meditations.eucalypto.net/post/</loc>
+    <loc>https://meditations.eucalypto.net/tags/reading/</loc>
     <lastmod>2021-01-03T23:28:45+01:00</lastmod>
   </url>
   
@@ -38,10 +63,6 @@
   
   <url>
     <loc>https://meditations.eucalypto.net/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://meditations.eucalypto.net/tags/</loc>
   </url>
   
 </urlset>

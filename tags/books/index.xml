@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Meditations - Eucalypto</title>
+    <link>https://meditations.eucalypto.net/tags/books/</link>
+    <description>Recent content in books on Meditations - Eucalypto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 23:28:45 +0100</lastBuildDate><atom:link href="https://meditations.eucalypto.net/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to read Books</title>
+      <link>https://meditations.eucalypto.net/p/how-to-read-books/</link>
+      <pubDate>Sun, 03 Jan 2021 23:28:45 +0100</pubDate>
+      
+      <guid>https://meditations.eucalypto.net/p/how-to-read-books/</guid>
+      <description>Goodread Challenge If you are on Goodreads, you may have received a notification for the 2021 Goodreads Reading Challenge. There you can set your goal for how many books you want to read this year.
+But is the number of read books a good measure?
+I&amp;rsquo;m reminded of Goodhart&amp;rsquo;s Law here:
+ When a measure becomes a target, it ceases to be a good measure.
+ How to become better at book-reading?</description>
+    </item>
+    
+  </channel>
+</rss>
