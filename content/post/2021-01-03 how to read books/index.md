@@ -1,6 +1,7 @@
 ---
 title: "How to read Books"
 date: 2021-01-03T23:28:45+01:00
+tags: [reading, books]
 image: pexels-polina-zimmerman-3747507.jpg
 ---
 
